@@ -1,0 +1,4 @@
+/home/vlad/projects/qt/neuron10GUI/builds/build-neuron10GUI-Desktop_Qt_5_12_6_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/vlad/projects/qt/neuron10GUI/builds/build-neuron10GUI-Desktop_Qt_5_12_6_GCC_64bit-Debug/CMakeFiles/neuron10GUI.dir
+/home/vlad/projects/qt/neuron10GUI/builds/build-neuron10GUI-Desktop_Qt_5_12_6_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/vlad/projects/qt/neuron10GUI/builds/build-neuron10GUI-Desktop_Qt_5_12_6_GCC_64bit-Debug/CMakeFiles/neuron10GUI_autogen.dir

@@ -21,6 +21,8 @@ QVBoxLayout
 -
 QProcess
 -
+QMessageBox
+-
 
 /home/vlad/projects/qt/neuron10GUI/mainwindow.h
 QMainWindow
@@ -1090,6 +1092,10 @@ qgridlayout.h
 qmainwindow.h
 /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmainwindow.h
 
+/opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QMessageBox
+qmessagebox.h
+/opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmessagebox.h
+
 /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QPushButton
 qpushbutton.h
 /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qpushbutton.h
@@ -1146,6 +1152,12 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qwidget.h
 -
 
+/opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qdialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
 /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qgridlayout.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1192,6 +1204,12 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qwidget.h
 -
 QtWidgets/qtabwidget.h
+-
+
+/opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmessagebox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
 -
 
 /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qpushbutton.h

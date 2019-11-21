@@ -230,6 +230,7 @@ CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QApplication
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QGridLayout
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QMainWindow
+ /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QMessageBox
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QPushButton
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QVBoxLayout
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QWidget
@@ -237,10 +238,12 @@ CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qapplication.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qboxlayout.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qdesktopwidget.h
+ /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qdialog.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qgridlayout.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qlayout.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qlayoutitem.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmainwindow.h
+ /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmessagebox.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qpushbutton.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qsizepolicy.h
  /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qtabwidget.h

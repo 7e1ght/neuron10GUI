@@ -229,6 +229,7 @@ CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QGridLayout
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QMessageBox
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QPushButton
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QVBoxLayout
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/QWidget
@@ -236,10 +237,12 @@ CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qapplication.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qdesktopwidget.h
+CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qdialog.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qgridlayout.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qlayout.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qmessagebox.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qpushbutton.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qsizepolicy.h
 CMakeFiles/neuron10GUI.dir/mainwindow.cpp.o: /opt/soft/Qt/5.12.6/gcc_64/include/QtWidgets/qtabwidget.h

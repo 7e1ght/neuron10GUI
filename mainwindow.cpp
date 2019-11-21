@@ -6,6 +6,7 @@
 #include <QGridLayout>
 #include <QVBoxLayout>
 #include <QProcess>
+#include <QMessageBox>
 
 namespace
 {
@@ -100,7 +101,13 @@ void MainWindow::runNN()
 
     nn.waitForFinished();
 
-    qDebug() << nn.readAllStandardOutput();
+    QMessageBox message;
+    message.setText("Число " + QString::fromUtf8(nn.readAllStandardOutput()));
+    message.setWindowTitle("Result");
+    message.setStandardButtons(QMessageBox::Ok);
+    message.setStandardButtons(QMessageBox::Ok);
+    message.exec();
+
     nn.kill();
 }
 
